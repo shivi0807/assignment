@@ -1,0 +1,8 @@
+1. A bullet graph comparing the mean and maximum glucose levels in a population and a sample is produced by the code that is provided. For every category, it plots bars with markers that show the values. Orange represents population values, and light blue represents sample values. In order to help in understanding the differences between the two datasets, the chart presents a clear visual comparison of the glucose levels between the sample and the population.
+	In this max population and mean sample from the sample and population of glucose.
+
+2.In sample and population datasets, the code specifies categories and associated values for mean and maximum glucose levels. It computes the 98th percentile BMI for each set and creates a bar graph that compares the 98th percentile BMIs of the sample and the population. The extremes of the BMI distribution between the sample and the general population are contrasted with this visualisation.
+	In this population 98th percentile BMI is highest comparing with sample and population.
+
+3. Using a bullet graph, the provided code compares blood pressure measurements between bootstrap samples and the population. It displays blood pressure readings as mean, standard deviation, and 50th percentile. The graph makes the contrasts between the population and bootstrap samples quite evident, which helps to explain the central tendency and variability of blood pressure measurements.
+	
